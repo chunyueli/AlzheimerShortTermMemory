@@ -4,12 +4,12 @@
 
 1. Clone
 ```
-git clone https://github.com/HiroshiMakinoLaboratory/APP-RNN.git
+git clone https://github.com/HiroshiMakinoLaboratory/AlzheimerShortTermMemory.git
 ```
 
-2. Create a conda environment and install gamma
+2. Create a conda environment
 ```
-cd APP-RNN/Train_RNN
+cd AlzheimerShortTermMemory/RNN/RNN_training
 conda env create -f environment.yml
 conda activate rnn
 ```
