@@ -6,8 +6,8 @@ Analysis code for Li et al. Vulnerability of short-term memory in the mouse mode
 Dataset can be downloaded at ## on Zenodo.
 See Description.pdf.
 
-## Clone the repository
-https://github.com/joao-semedo/communication-subspace
+### Clone the repository
+https://github.com/joao-semedo/communication-subspace from Semedo et al. (2019) Cortical areas interact through a communication subspace. Neuron. was cloned into the Utility folder.
 
 ## Correspondence
 Hiroshi Makino, Department of Physiology, Keio University School of Medicine
