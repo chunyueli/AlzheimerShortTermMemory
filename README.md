@@ -5,7 +5,7 @@ Analysis code for Li et al. Vulnerability of short-term memory in a mouse model 
 Helper codes from https://github.com/joao-semedo/communication-subspace from Semedo et al. (2019) Cortical areas interact through a communication subspace. Neuron. were cloned at Utility.
 
 ## Dataset
-Dataset can be downloaded at ## on Zenodo.
+Dataset can be downloaded at https://zenodo.org/records/14551514 on Zenodo.
 See Description.pdf.
 
 ## Correspondence
