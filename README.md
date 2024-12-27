@@ -6,7 +6,7 @@ Li, Chia, Xu et al. Vulnerability of short-term memory in a mouse model of Alzhe
 
 ### Supporting code
 
-This repository includes supporting code cloned from https://github.com/joao-semedo/communication-subspace:
+This repository includes helper functions from https://github.com/joao-semedo/communication-subspace:
 Semedo et al. (2019) Cortical areas interact through a communication subspace. Neuron.
 
 The cloned code can be found in the `Utility` directory.
